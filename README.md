@@ -7,5 +7,5 @@ Build 30 things in 30 days with 30 tutorials.
 (https://javascript30.com/)
 
 <div align="center">
-       <img src="web.png" width="600px"</img> 
+       <img src="/images/web.png" width="600px"</img> 
 </div>
